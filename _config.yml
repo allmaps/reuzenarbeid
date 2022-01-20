@@ -11,7 +11,7 @@ viewer_base_url: https://universalviewer.io/uv.html?manifest=
 # viewer_base_url: https://projectmirador.org/embed/?manifest= # Canvas selection impossible
 
 # IIIF Server settings
-image_base_url: https://dlc.services/iiif-img/7/6/
+image_base_url: https://dlc.services/iiif-img/7/
 manifest_base_url: https://allmaps.org/reuzenarbeid/manifests/
 
 # Allmaps

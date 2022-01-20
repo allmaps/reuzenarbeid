@@ -1,6 +1,6 @@
 - 
   id: TRG-9105-B-04
-  oclc: 
+  oclc: [1288316919]
   first-canvas: 21
   projects:
   -
@@ -50,7 +50,7 @@
     year: [1884]
 - 
   id: TRG-9301-B-01
-  oclc: 
+  oclc: [1288321449]
   first-canvas: 60
   projects: 
   -
@@ -150,7 +150,7 @@
     year:
 - 
   id: TRG-9301-C-02
-  oclc: 
+  oclc: 1288324810
   first-canvas: 121
   projects:
   -
@@ -215,7 +215,7 @@
     year: [1865, 1866, 1867, 1868]
 - 
   id: TRG-9301-P-02
-  oclc: 
+  oclc: [1288325317]
   first-canvas: 194
   projects:
   -
@@ -530,7 +530,7 @@
     year: [1867, 1868]
   -
     project: Het droogdok te Middelburg
-    photographers: C. W. Bauer?
+    photographers: Carl Wilhelm Bauer 
     canvas: 10
     year:
   -
